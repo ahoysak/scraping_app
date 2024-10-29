@@ -17,6 +17,7 @@ git clone https://github.com/ahoysak/scraping_app.git
 ```
 ## Install requirements.txt
 ```
+cd scraping_app
 pip install -r requirements.txt
 ```
 
